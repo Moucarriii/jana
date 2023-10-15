@@ -1,0 +1,14 @@
+numpy==1.23.5
+pandas==1.4.4
+streamlit==1.20.0
+altair
+boto3
+ccxt
+google
+gspread
+pandas
+regex
+requests
+53fs==0.4.0
+pandas-profiling
+
