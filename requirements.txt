@@ -11,4 +11,3 @@ regex
 requests
 53fs==0.4.0
 pandas-profiling
-
