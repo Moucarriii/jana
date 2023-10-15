@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 import streamlit as st
 import pandas as pd
 from pandas_profiling import ProfileReport as PR
